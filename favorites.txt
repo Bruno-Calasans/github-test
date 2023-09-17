@@ -1,3 +1,6 @@
 - doritos
 - cheese
 - watermelon
+- Django Freeman
+- Ghost
+- Mortal Race
